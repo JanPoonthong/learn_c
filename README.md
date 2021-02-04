@@ -33,3 +33,5 @@ If you want to learn about the hardware, make an emulator.
 If you want to learn about the OS, learn C.
 
 Sure, you can learn PIC.
+
+Since you want to know all details, I'd recommend some ASM tutorial to get started and then make a simple game like snake
