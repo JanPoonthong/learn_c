@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Calculate dozen eggs
 int main()
 {
     printf("The number of eggs of the day: ");

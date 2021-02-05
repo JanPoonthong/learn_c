@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Calculate the area of a circle with radius
 int main()
 {
     printf("The a radius: ");
