@@ -10,8 +10,7 @@ int main()
     double b;
     scanf("%lf", &b);
 
-    double c = a*a + b*b;
-    double result = sqrt(c);
-    printf("%f", result);
+    double c = sqrt(a*a + b*b);
+    printf("%f", c);
     return 0;
 }
