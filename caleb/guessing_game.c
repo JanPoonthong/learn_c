@@ -13,7 +13,7 @@ int main()
   int input;
   scanf("%d", &input);
 
-  if(input == random) {
+  if (input == random) {
     printf("You win\n");
   } else {
     printf("You lose\n");

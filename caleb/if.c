@@ -9,7 +9,7 @@ int main()
   scanf("%d", &temp);
   isPizzaHealthy = temp;
 
-  if(isPizzaHealthy) {
+  if (isPizzaHealthy) {
     printf("Welcome to my pizza program\n");
   } else {
     printf("You're not welcome to my pizza program\n");
