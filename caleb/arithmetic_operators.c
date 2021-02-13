@@ -2,9 +2,9 @@
 
 int main()
 {
-    int pizza = 5;
-    int eaters = 2;
-    int left = pizza % eaters;
-    printf("%i\n", left);
-    return 0;
+  int pizza = 5;
+  int eaters = 2;
+  int left = pizza % eaters;
+  printf("%i\n", left);
+  return 0;
 }
